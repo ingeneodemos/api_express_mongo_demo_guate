@@ -1,0 +1,34 @@
+2017-05-29 05:37:04.339 - info: service : /mongo/api/v1/client
+2017-05-29 05:37:04.343 - info: service : /mongo/api/v1/client
+2017-05-29 05:37:04.354 - info: escuchando  : 0.0.0.0:5002
+2017-05-29 05:37:07.105 - error: No existe el cliente
+2017-05-29 05:37:07.106 - error: 
+2017-05-29 05:37:29.270 - info: service : /mongo/api/v1/client
+2017-05-29 05:37:29.278 - info: service : /mongo/api/v1/client
+2017-05-29 05:37:29.289 - info: escuchando  : 0.0.0.0:5002
+2017-05-29 05:37:31.510 - error: No existe el cliente
+2017-05-29 05:37:31.511 - error: 
+2017-05-29 05:37:41.141 - info: guardado exitoso
+2017-05-29 05:37:46.021 - error: guardado exitoso
+2017-05-29 05:37:53.585 - error: error al actualizar el cliente
+2017-05-29 05:37:53.587 - error:  CastError: Cast to ObjectId failed for value "5925e637668f51170dc8a5b58" at path "_id" for model "Client"
+    at MongooseError.CastError (E:\ingeneo\proyectos\nodejs_guate\api_express_mongo_demo_guate\node_modules\mongoose\lib\error\cast.js:26:11)
+    at ObjectId.cast (E:\ingeneo\proyectos\nodejs_guate\api_express_mongo_demo_guate\node_modules\mongoose\lib\schema\objectid.js:149:13)
+    at ObjectId.SchemaType._castForQuery (E:\ingeneo\proyectos\nodejs_guate\api_express_mongo_demo_guate\node_modules\mongoose\lib\schematype.js:1023:15)
+    at ObjectId.castForQuery (E:\ingeneo\proyectos\nodejs_guate\api_express_mongo_demo_guate\node_modules\mongoose\lib\schema\objectid.js:189:15)
+    at cast (E:\ingeneo\proyectos\nodejs_guate\api_express_mongo_demo_guate\node_modules\mongoose\lib\cast.js:232:32)
+    at Query.cast (E:\ingeneo\proyectos\nodejs_guate\api_express_mongo_demo_guate\node_modules\mongoose\lib\query.js:2932:12)
+    at Query.findOne (E:\ingeneo\proyectos\nodejs_guate\api_express_mongo_demo_guate\node_modules\mongoose\lib\query.js:1394:10)
+    at Function.findOne (E:\ingeneo\proyectos\nodejs_guate\api_express_mongo_demo_guate\node_modules\mongoose\lib\model.js:1360:13)
+    at Function.findById (E:\ingeneo\proyectos\nodejs_guate\api_express_mongo_demo_guate\node_modules\mongoose\lib\model.js:1288:15)
+    at E:\ingeneo\proyectos\nodejs_guate\api_express_mongo_demo_guate\services\client.js:64:16
+    at Layer.handle [as handle_request] (E:\ingeneo\proyectos\nodejs_guate\api_express_mongo_demo_guate\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\ingeneo\proyectos\nodejs_guate\api_express_mongo_demo_guate\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (E:\ingeneo\proyectos\nodejs_guate\api_express_mongo_demo_guate\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (E:\ingeneo\proyectos\nodejs_guate\api_express_mongo_demo_guate\node_modules\express\lib\router\layer.js:95:5)
+    at E:\ingeneo\proyectos\nodejs_guate\api_express_mongo_demo_guate\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (E:\ingeneo\proyectos\nodejs_guate\api_express_mongo_demo_guate\node_modules\express\lib\router\index.js:335:12)
+2017-05-29 05:37:59.839 - error: guardado exitoso
+2017-05-29 05:38:07.772 - error: El cliente no existe
+2017-05-29 05:38:07.772 - error: 
+2017-05-29 05:38:07.787 - error: uncaughtException: Cannot set property 'identity' of null date=Mon May 29 2017 05:38:07 GMT-0500 (Hora est. Pacífico, Sudamérica), pid=21000, uid=null, gid=null, cwd=E:\ingeneo\proyectos\nodejs_guate\api_express_mongo_demo_guate, execPath=D:\nodejs-6.9.4\node.exe, version=v6.9.4, argv=[D:\nodejs-6.9.4\node.exe, E:\ingeneo\proyectos\nodejs_guate\api_express_mongo_demo_guate\server.js], rss=39976960, heapTotal=25202688, heapUsed=18551168, loadavg=[0, 0, 0], uptime=229378.2891764, trace=[column=28, file=E:\ingeneo\proyectos\nodejs_guate\api_express_mongo_demo_guate\services\client.js, function=null, line=71, method=null, native=false, column=16, file=E:\ingeneo\proyectos\nodejs_guate\api_express_mongo_demo_guate\node_modules\mongoose\lib\model.js, function=null, line=3747, method=null, native=false, column=21, file=E:\ingeneo\proyectos\nodejs_guate\api_express_mongo_demo_guate\node_modules\kareem\index.js, function=null, line=277, method=null, native=false, column=16, file=E:\ingeneo\proyectos\nodejs_guate\api_express_mongo_demo_guate\node_modules\kareem\index.js, function=null, line=131, method=null, native=false, column=7, file=internal/process/next_tick.js, function=_combinedTickCallback, line=67, method=null, native=false, column=9, file=internal/process/next_tick.js, function=process._tickCallback, line=98, method=_tickCallback, native=false], stack=[TypeError: Cannot set property 'identity' of null,     at E:\ingeneo\proyectos\nodejs_guate\api_express_mongo_demo_guate\services\client.js:71:28,     at Query.<anonymous> (E:\ingeneo\proyectos\nodejs_guate\api_express_mongo_demo_guate\node_modules\mongoose\lib\model.js:3747:16),     at E:\ingeneo\proyectos\nodejs_guate\api_express_mongo_demo_guate\node_modules\kareem\index.js:277:21,     at E:\ingeneo\proyectos\nodejs_guate\api_express_mongo_demo_guate\node_modules\kareem\index.js:131:16,     at _combinedTickCallback (internal/process/next_tick.js:67:7),     at process._tickCallback (internal/process/next_tick.js:98:9)]

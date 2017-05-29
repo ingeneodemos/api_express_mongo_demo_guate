@@ -1,0 +1,53 @@
+2017-05-18 14:16:46.548 - info: service : /api/v1/sms
+2017-05-18 14:16:47.410 - info: Conexión a cassandra correcta 
+2017-05-18 14:16:56.012 - error: uncaughtException: Unexpected token  in JSON at position 40 date=Thu May 18 2017 14:16:56 GMT-0500 (Hora est. Pacífico, Sudamérica), pid=11868, uid=null, gid=null, cwd=E:\ingeneo\sources\api_sms_mms, execPath=D:\nodejs-7.2.1\node.exe, version=v7.2.1, argv=[D:\nodejs-7.2.1\node.exe, E:\ingeneo\sources\api_sms_mms\server.js], rss=36085760, heapTotal=19902464, heapUsed=12741296, external=382399, loadavg=[0, 0, 0], uptime=59444.1337716, trace=[column=null, file=null, function=JSON.parse, line=null, method=parse, native=false, column=17, file=E:\ingeneo\sources\api_sms_mms\utils.js, function=Object.module.exports.getQueries, line=16, method=getQueries, native=false, column=23, file=E:\ingeneo\sources\api_sms_mms\server.js, function=null, line=10, method=null, native=false, column=32, file=module.js, function=Module._compile, line=571, method=_compile, native=false, column=10, file=module.js, function=Module._extensions..js, line=580, method=.js, native=false, column=32, file=module.js, function=Module.load, line=488, method=load, native=false, column=12, file=module.js, function=tryModuleLoad, line=447, method=null, native=false, column=3, file=module.js, function=Module._load, line=439, method=_load, native=false, column=10, file=module.js, function=Module.runMain, line=605, method=runMain, native=false, column=7, file=bootstrap_node.js, function=run, line=420, method=null, native=false], stack=[SyntaxError: Unexpected token  in JSON at position 40,     at JSON.parse (<anonymous>),     at Object.module.exports.getQueries (E:\ingeneo\sources\api_sms_mms\utils.js:16:17),     at Object.<anonymous> (E:\ingeneo\sources\api_sms_mms\server.js:10:23),     at Module._compile (module.js:571:32),     at Object.Module._extensions..js (module.js:580:10),     at Module.load (module.js:488:32),     at tryModuleLoad (module.js:447:12),     at Function.Module._load (module.js:439:3),     at Module.runMain (module.js:605:10),     at run (bootstrap_node.js:420:7)]
+2017-05-18 14:16:57.861 - info: service : /api/v1/sms
+2017-05-18 14:16:58.764 - info: Conexión a cassandra correcta 
+2017-05-18 14:17:26.665 - info: service : /api/v1/sms
+2017-05-18 14:17:27.548 - info: Conexión a cassandra correcta 
+2017-05-18 14:18:01.905 - info: service : /api/v1/sms
+2017-05-18 14:18:02.794 - info: Conexión a cassandra correcta 
+2017-05-18 14:18:23.191 - info: service : /api/v1/sms
+2017-05-18 14:18:24.051 - info: Conexión a cassandra correcta 
+2017-05-18 14:18:36.449 - info: service : /api/v1/sms
+2017-05-18 14:18:37.307 - info: Conexión a cassandra correcta 
+2017-05-18 14:19:19.238 - info: service : /api/v1/sms
+2017-05-18 14:19:20.129 - info: Conexión a cassandra correcta 
+2017-05-18 14:19:37.022 - info: service : /api/v1/sms
+2017-05-18 14:19:37.798 - info: Conexión a cassandra correcta 
+2017-05-18 14:22:32.958 - info: service : /api/v1/sms
+2017-05-18 14:22:33.890 - info: Conexión a cassandra correcta 
+2017-05-18 14:22:40.810 - info: service : /api/v1/sms
+2017-05-18 14:22:41.676 - info: Conexión a cassandra correcta 
+2017-05-18 14:23:30.851 - info: service : /api/v1/sms
+2017-05-18 14:23:31.775 - info: Conexión a cassandra correcta 
+2017-05-18 14:26:17.629 - info: service : /api/v1/sms
+2017-05-18 14:26:18.524 - info: Conexión a cassandra correcta 
+2017-05-18 14:38:13.270 - info: service : /api/v1/sms
+2017-05-18 14:38:14.192 - info: Conexión a cassandra correcta 
+2017-05-18 14:39:17.128 - info: service : /api/v1/sms
+2017-05-18 14:39:18.150 - info: service : /api/v1/sms
+2017-05-18 14:39:19.080 - info: Conexión a cassandra correcta 
+2017-05-18 15:48:58.071 - info: service : /api/v1/sms
+2017-05-18 15:48:59.001 - info: Conexión a cassandra correcta 
+2017-05-18 15:49:04.950 - info: service : /api/v1/sms
+2017-05-18 15:49:05.885 - info: Conexión a cassandra correcta 
+2017-05-18 15:50:56.255 - info: service : /api/v1/sms
+2017-05-18 15:50:57.192 - info: Conexión a cassandra correcta 
+2017-05-18 15:51:21.632 - info: service : /api/v1/sms
+2017-05-18 15:51:22.564 - info: Conexión a cassandra correcta 
+2017-05-18 15:51:23.315 - info: service : /api/v1/sms
+2017-05-18 15:51:24.247 - info: Conexión a cassandra correcta 
+2017-05-18 15:52:11.287 - info: service : /api/v1/sms
+2017-05-18 15:52:12.214 - info: Conexión a cassandra correcta 
+2017-05-18 15:52:32.680 - info: service : /api/v1/sms
+2017-05-18 15:52:33.572 - info: Conexión a cassandra correcta 
+2017-05-18 15:52:52.215 - info: service : /api/v1/sms
+2017-05-18 15:52:53.294 - info: Conexión a cassandra correcta 
+2017-05-18 15:53:06.018 - info: service : /api/v1/sms
+2017-05-18 15:53:06.961 - info: Conexión a cassandra correcta 
+2017-05-18 15:53:13.982 - info: service : /api/v1/sms
+2017-05-18 15:53:14.948 - info: Conexión a cassandra correcta 
+2017-05-18 15:53:24.456 - info: service : /api/v1/sms
+2017-05-18 15:53:25.402 - info: Conexión a cassandra correcta 
+2017-05-18 15:53:47.671 - info: service : /api/v1/sms

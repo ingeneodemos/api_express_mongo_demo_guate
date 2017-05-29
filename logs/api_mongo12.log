@@ -1,0 +1,5 @@
+2017-05-29 05:36:11.175 - info: service : /mongo/api/v1/client
+2017-05-29 05:36:11.180 - info: service : /mongo/api/v1/client
+2017-05-29 05:36:11.190 - info: escuchando  : 0.0.0.0:5002
+2017-05-29 05:36:16.322 - error: error al consultar el cliente
+2017-05-29 05:36:16.322 - error: 

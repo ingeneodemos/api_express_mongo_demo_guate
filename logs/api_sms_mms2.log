@@ -1,0 +1,78 @@
+2017-05-18 15:53:48.661 - info: Conexión a cassandra correcta 
+2017-05-18 15:54:53.410 - info: service : /api/v1/sms
+2017-05-18 15:54:54.390 - info: Conexión a cassandra correcta 
+2017-05-18 15:55:04.992 - info: service : /api/v1/sms
+2017-05-18 15:55:05.899 - info: Conexión a cassandra correcta 
+2017-05-18 15:55:09.550 - info: service : /api/v1/sms
+2017-05-18 15:55:10.504 - info: Conexión a cassandra correcta 
+2017-05-18 15:55:16.044 - info: service : /api/v1/sms
+2017-05-18 15:55:17.013 - info: Conexión a cassandra correcta 
+2017-05-18 15:58:10.471 - info: service : /api/v1/sms
+2017-05-18 15:58:11.427 - info: Conexión a cassandra correcta 
+2017-05-18 15:58:24.626 - info: service : /api/v1/sms
+2017-05-18 15:58:25.560 - info: Conexión a cassandra correcta 
+2017-05-18 16:01:40.980 - info: service : /api/v1/sms
+2017-05-18 16:01:41.933 - info: Conexión a cassandra correcta 
+2017-05-18 16:01:57.768 - info: service : /api/v1/sms
+2017-05-18 16:01:58.719 - info: Conexión a cassandra correcta 
+2017-05-18 16:23:00.296 - info: service : /api/v1/sms
+2017-05-18 16:23:01.224 - info: Conexión a cassandra correcta 
+2017-05-18 16:23:03.971 - info: service : /api/v1/sms
+2017-05-18 16:23:04.881 - info: Conexión a cassandra correcta 
+2017-05-18 16:23:07.574 - info: service : /api/v1/sms
+2017-05-18 16:23:08.483 - info: Conexión a cassandra correcta 
+2017-05-18 16:29:47.605 - info: service : /api/v1/sms
+2017-05-18 16:29:48.476 - info: Conexión a cassandra correcta 
+2017-05-18 16:30:08.669 - info: service : /api/v1/sms
+2017-05-18 16:30:09.455 - info: Conexión a cassandra correcta 
+2017-05-18 17:38:57.799 - info: service : /api/v1/sms
+2017-05-18 17:39:12.827 - error: Error al conectarse con la base de datos
+2017-05-18 17:39:12.829 - error:  message=Connection timeout, info=Cassandra Driver Error, message=Connection timeout, info=Cassandra Driver Error, message=Connection timeout, info=Cassandra Driver Error, info=Represents an error when a query cannot be performed because no host is available or could be reached by the driver., message=All host(s) tried for query failed. First host tried, 172.22.103.103:9042: Error: Connection timeout. See innerErrors.
+2017-05-18 17:39:56.859 - info: service : /api/v1/sms
+2017-05-18 17:39:57.478 - info: Conexión a cassandra correcta 
+2017-05-18 17:40:15.278 - info: service : /api/v1/sms
+2017-05-18 17:40:15.886 - info: Conexión a cassandra correcta 
+2017-05-18 17:41:33.289 - info: service : /api/v1/sms
+2017-05-18 17:41:33.852 - info: Conexión a cassandra correcta 
+2017-05-18 17:42:11.500 - info: service : /api/v1/sms
+2017-05-18 17:42:12.108 - info: Conexión a cassandra correcta 
+2017-05-18 17:42:49.335 - info: service : /api/v1/sms
+2017-05-18 17:42:49.916 - info: Conexión a cassandra correcta 
+2017-05-18 17:44:01.674 - info: service : /api/v1/sms
+2017-05-18 17:44:02.330 - info: Conexión a cassandra correcta 
+2017-05-18 17:45:59.252 - info: service : /api/v1/sms
+2017-05-18 17:45:59.914 - info: Conexión a cassandra correcta 
+2017-05-18 17:46:39.104 - info: service : /api/v1/sms
+2017-05-18 17:46:39.742 - info: Conexión a cassandra correcta 
+2017-05-18 17:50:00.495 - info: service : /api/v1/sms
+2017-05-18 17:50:01.212 - info: Conexión a cassandra correcta 
+2017-05-18 17:50:51.591 - info: service : /api/v1/sms
+2017-05-18 17:50:52.262 - info: Conexión a cassandra correcta 
+2017-05-18 17:53:56.773 - info: service : /api/v1/sms
+2017-05-18 17:53:57.309 - info: Conexión a cassandra correcta 
+2017-05-18 17:56:04.093 - info: service : /api/v1/sms
+2017-05-18 17:56:04.722 - info: Conexión a cassandra correcta 
+2017-05-18 17:57:21.335 - info: service : /api/v1/sms
+2017-05-18 17:57:21.943 - info: Conexión a cassandra correcta 
+2017-05-18 17:57:33.003 - info: service : /api/v1/sms
+2017-05-18 17:57:33.799 - info: Conexión a cassandra correcta 
+2017-05-18 17:57:47.924 - info: service : /api/v1/sms
+2017-05-18 17:57:48.503 - info: Conexión a cassandra correcta 
+2017-05-18 17:59:57.025 - info: service : /api/v1/sms
+2017-05-18 17:59:57.649 - info: Conexión a cassandra correcta 
+2017-05-18 18:02:19.491 - info: service : /api/v1/sms
+2017-05-18 18:02:20.155 - info: Conexión a cassandra correcta 
+2017-05-18 18:03:24.348 - info: service : /api/v1/sms
+2017-05-18 18:03:25.051 - info: Conexión a cassandra correcta 
+2017-05-18 18:03:41.828 - info: service : /api/v1/sms
+2017-05-18 18:03:42.471 - info: Conexión a cassandra correcta 
+2017-05-18 18:04:03.536 - info: service : /api/v1/sms
+2017-05-18 18:04:04.213 - info: Conexión a cassandra correcta 
+2017-05-18 18:04:53.959 - info: service : /api/v1/token
+2017-05-18 18:04:53.966 - info: service : /api/v1/sms
+2017-05-18 18:04:54.588 - info: Conexión a cassandra correcta 
+2017-05-18 18:06:23.401 - info: service : /api/v1/token
+2017-05-18 18:06:23.408 - info: service : /api/v1/sms
+2017-05-18 18:06:24.028 - info: Conexión a cassandra correcta 
+2017-05-18 18:07:33.374 - info: service : /api/v1/token
+2017-05-18 18:07:33.396 - error: uncaughtException: app.use() requires middleware functions date=Thu May 18 2017 18:07:33 GMT-0500 (Hora est. Pacífico, Sudamérica), pid=26280, uid=null, gid=null, cwd=E:\ingeneo\proyectos\nodejs_guate\api_express_mongo_demo_guate, execPath=D:\nodejs-7.2.1\node.exe, version=v7.2.1, argv=[D:\nodejs-7.2.1\node.exe, E:\ingeneo\proyectos\nodejs_guate\api_express_mongo_demo_guate\server.js], rss=40398848, heapTotal=23048192, heapUsed=14546496, external=127284, loadavg=[0, 0, 0], uptime=73281.5175247, trace=[column=11, file=E:\ingeneo\proyectos\nodejs_guate\api_express_mongo_demo_guate\node_modules\express\lib\application.js, function=Function.use, line=210, method=use, native=false, column=5, file=E:\ingeneo\proyectos\nodejs_guate\api_express_mongo_demo_guate\server.js, function=null, line=38, method=null, native=false, column=32, file=module.js, function=Module._compile, line=571, method=_compile, native=false, column=10, file=module.js, function=Module._extensions..js, line=580, method=.js, native=false, column=32, file=module.js, function=Module.load, line=488, method=load, native=false, column=12, file=module.js, function=tryModuleLoad, line=447, method=null, native=false, column=3, file=module.js, function=Module._load, line=439, method=_load, native=false, column=10, file=module.js, function=Module.runMain, line=605, method=runMain, native=false, column=7, file=bootstrap_node.js, function=run, line=420, method=null, native=false, column=9, file=bootstrap_node.js, function=startup, line=139, method=null, native=false], stack=[TypeError: app.use() requires middleware functions,     at Function.use (E:\ingeneo\proyectos\nodejs_guate\api_express_mongo_demo_guate\node_modules\express\lib\application.js:210:11),     at Object.<anonymous> (E:\ingeneo\proyectos\nodejs_guate\api_express_mongo_demo_guate\server.js:38:5),     at Module._compile (module.js:571:32),     at Object.Module._extensions..js (module.js:580:10),     at Module.load (module.js:488:32),     at tryModuleLoad (module.js:447:12),     at Function.Module._load (module.js:439:3),     at Module.runMain (module.js:605:10),     at run (bootstrap_node.js:420:7),     at startup (bootstrap_node.js:139:9)]

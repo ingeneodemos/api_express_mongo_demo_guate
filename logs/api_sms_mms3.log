@@ -1,0 +1,51 @@
+2017-05-18 18:08:21.829 - info: service : /api/v1/token
+2017-05-18 18:08:21.846 - error: uncaughtException: app.use() requires middleware functions date=Thu May 18 2017 18:08:21 GMT-0500 (Hora est. Pacífico, Sudamérica), pid=4388, uid=null, gid=null, cwd=E:\ingeneo\proyectos\nodejs_guate\api_express_mongo_demo_guate, execPath=D:\nodejs-7.2.1\node.exe, version=v7.2.1, argv=[D:\nodejs-7.2.1\node.exe, E:\ingeneo\proyectos\nodejs_guate\api_express_mongo_demo_guate\server.js], rss=39264256, heapTotal=21999616, heapUsed=13494000, external=149132, loadavg=[0, 0, 0], uptime=73329.9674073, trace=[column=11, file=E:\ingeneo\proyectos\nodejs_guate\api_express_mongo_demo_guate\node_modules\express\lib\application.js, function=Function.use, line=210, method=use, native=false, column=5, file=E:\ingeneo\proyectos\nodejs_guate\api_express_mongo_demo_guate\server.js, function=null, line=41, method=null, native=false, column=32, file=module.js, function=Module._compile, line=571, method=_compile, native=false, column=10, file=module.js, function=Module._extensions..js, line=580, method=.js, native=false, column=32, file=module.js, function=Module.load, line=488, method=load, native=false, column=12, file=module.js, function=tryModuleLoad, line=447, method=null, native=false, column=3, file=module.js, function=Module._load, line=439, method=_load, native=false, column=10, file=module.js, function=Module.runMain, line=605, method=runMain, native=false, column=7, file=bootstrap_node.js, function=run, line=420, method=null, native=false, column=9, file=bootstrap_node.js, function=startup, line=139, method=null, native=false], stack=[TypeError: app.use() requires middleware functions,     at Function.use (E:\ingeneo\proyectos\nodejs_guate\api_express_mongo_demo_guate\node_modules\express\lib\application.js:210:11),     at Object.<anonymous> (E:\ingeneo\proyectos\nodejs_guate\api_express_mongo_demo_guate\server.js:41:5),     at Module._compile (module.js:571:32),     at Object.Module._extensions..js (module.js:580:10),     at Module.load (module.js:488:32),     at tryModuleLoad (module.js:447:12),     at Function.Module._load (module.js:439:3),     at Module.runMain (module.js:605:10),     at run (bootstrap_node.js:420:7),     at startup (bootstrap_node.js:139:9)]
+2017-05-18 18:08:39.603 - info: service : /api/v1/token
+2017-05-18 18:08:39.610 - info: service : /api/v1/sms
+2017-05-18 18:08:40.249 - info: Conexión a cassandra correcta 
+2017-05-18 18:08:49.291 - info: service : /api/v1/token
+2017-05-18 18:08:49.299 - info: service : /api/v1/sms
+2017-05-18 18:08:49.949 - info: Conexión a cassandra correcta 
+2017-05-18 18:09:35.937 - info: service : /api/v1/token
+2017-05-18 18:09:35.946 - info: service : /api/v1/sms
+2017-05-18 18:09:36.580 - info: Conexión a cassandra correcta 
+2017-05-18 18:09:40.287 - info: service : /api/v1/token
+2017-05-18 18:09:40.294 - info: service : /api/v1/sms
+2017-05-18 18:09:40.905 - info: Conexión a cassandra correcta 
+2017-05-18 18:12:45.910 - info: service : /api/v1/token
+2017-05-18 18:12:45.919 - info: service : /api/v1/sms
+2017-05-18 18:12:46.544 - info: Conexión a cassandra correcta 
+2017-05-18 18:12:53.601 - info: service : /api/v1/token
+2017-05-18 18:12:53.609 - info: service : /api/v1/sms
+2017-05-18 18:12:54.245 - info: Conexión a cassandra correcta 
+2017-05-18 18:35:18.774 - info: service : /api/v1/token
+2017-05-18 18:35:18.783 - info: service : /api/v1/token
+2017-05-18 18:35:18.789 - info: service : /api/v1/sms
+2017-05-18 18:35:19.428 - info: Conexión a cassandra correcta 
+2017-05-18 18:35:23.386 - info: service : /api/v1/token
+2017-05-18 18:35:23.392 - info: service : /api/v1/token
+2017-05-18 18:35:23.395 - info: service : /api/v1/sms
+2017-05-18 18:35:23.990 - info: Conexión a cassandra correcta 
+2017-05-18 18:37:33.796 - info: service : /api/v1/token
+2017-05-18 18:37:33.803 - info: service : /api/v1/sms
+2017-05-18 18:37:34.468 - info: Conexión a cassandra correcta 
+2017-05-18 18:37:55.749 - info: service : /api/v1/token
+2017-05-18 18:37:55.756 - info: service : /api/v1/sms
+2017-05-18 18:37:56.464 - info: Conexión a cassandra correcta 
+2017-05-18 18:40:04.053 - info: service : /api/v1/token
+2017-05-18 18:40:04.060 - info: service : /api/v1/sms
+2017-05-18 18:40:04.729 - info: Conexión a cassandra correcta 
+2017-05-18 18:40:49.204 - info: service : /api/v1/token
+2017-05-18 18:40:49.212 - info: service : /api/v1/sms
+2017-05-18 18:40:49.845 - info: Conexión a cassandra correcta 
+2017-05-18 18:44:55.936 - info: service : /api/v1/token
+2017-05-18 18:44:55.943 - info: service : /api/v1/sms
+2017-05-18 18:44:56.561 - info: Conexión a cassandra correcta 
+2017-05-18 18:45:56.602 - info: service : /api/v1/token
+2017-05-18 18:45:56.609 - info: service : /api/v1/sms
+2017-05-18 18:45:57.218 - info: Conexión a cassandra correcta 
+2017-05-18 18:50:13.242 - info: service : /api/v1/token
+2017-05-18 18:50:13.250 - info: service : /api/v1/sms
+2017-05-18 18:50:13.874 - info: Conexión a cassandra correcta 
+2017-05-18 18:51:50.209 - info: service : /api/v1/token
+2017-05-18 18:51:50.217 - info: service : /api/v1/sms

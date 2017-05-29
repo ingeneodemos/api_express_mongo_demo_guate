@@ -1,0 +1,15 @@
+{
+        "allowHttpMethods": "GET, POST, PUT, DELETE",
+        "apiName": "/mongo/api/",
+        "apiPort": 5002,
+        "apiVersion": "v1",
+        "backlog": 511,
+        "mongoPass": "mongo",
+        "mongoUrls":["34.203.217.140"],
+        "mongoUser": "mongo",
+        "host": "0.0.0.0",
+        "logFileSize": 5,
+        "logLevel": "debug",
+        "logMaxFiles": 10,
+        "logPath": "logs/api_mongo.log"
+}

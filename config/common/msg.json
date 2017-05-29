@@ -1,0 +1,22 @@
+{
+    "error_code":500,
+    "error_query_code":400,
+    "success_code":200,
+    "db_error":"",
+    "db_authenticate_error":"",
+    "db_host_error":"",
+    "request_error":"",
+    "status_4xx":"",
+    "status_404":"Recurso no encontrado",
+    "status_5xx":"Error del servidor",
+    "status_2xx":"Respuesta exitosa",
+    "status_3xx":"",
+    "status_5xx":"",
+    "identity_required":"El campo 'identity' es requerido",
+    "name_required":"El campo 'name' es requerido",
+    "lastname_required":"El campo 'lastname' es requerido",
+    "email_required":"El campo 'email' es requerido",
+    "line_required":"El campo 'line' es requerido",
+    "balance_required":"El campo 'balance' es requerido",
+    "resource_not_found":"Recurso no encontrado"
+}

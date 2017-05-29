@@ -1,0 +1,28 @@
+2017-05-18 13:55:40.171 - info: service : /api/v1/sms
+2017-05-18 13:55:41.070 - info: Conexión a cassandra correcta 
+2017-05-18 13:55:48.924 - info: service : /api/v1/sms
+2017-05-18 13:55:49.789 - info: Conexión a cassandra correcta 
+2017-05-18 14:01:11.327 - info: service : /api/v1/sms
+2017-05-18 14:01:12.128 - info: Conexión a cassandra correcta 
+2017-05-18 14:01:38.932 - info: service : /api/v1/sms
+2017-05-18 14:01:39.745 - info: Conexión a cassandra correcta 
+2017-05-18 14:10:12.590 - info: service : /api/v1/sms
+2017-05-18 14:10:13.465 - info: Conexión a cassandra correcta 
+2017-05-18 14:10:25.899 - info: service : /api/v1/sms
+2017-05-18 14:10:26.817 - info: Conexión a cassandra correcta 
+2017-05-18 14:10:45.097 - info: service : /api/v1/sms
+2017-05-18 14:10:46.005 - info: Conexión a cassandra correcta 
+2017-05-18 14:10:53.270 - info: service : /api/v1/sms
+2017-05-18 14:10:54.137 - info: Conexión a cassandra correcta 
+2017-05-18 14:10:59.331 - info: service : /api/v1/sms
+2017-05-18 14:11:00.270 - info: Conexión a cassandra correcta 
+2017-05-18 14:11:13.363 - info: service : /api/v1/sms
+2017-05-18 14:11:14.229 - info: Conexión a cassandra correcta 
+2017-05-18 14:11:46.578 - info: service : /api/v1/sms
+2017-05-18 14:11:47.365 - info: Conexión a cassandra correcta 
+2017-05-18 14:12:01.396 - info: service : /api/v1/sms
+2017-05-18 14:12:02.305 - info: Conexión a cassandra correcta 
+2017-05-18 14:13:47.878 - info: service : /api/v1/sms
+2017-05-18 14:13:48.807 - info: Conexión a cassandra correcta 
+2017-05-18 14:15:52.495 - error: uncaughtException: Unexpected token  in JSON at position 40 date=Thu May 18 2017 14:15:52 GMT-0500 (Hora est. Pacífico, Sudamérica), pid=2804, uid=null, gid=null, cwd=E:\ingeneo\sources\api_sms_mms, execPath=D:\nodejs-7.2.1\node.exe, version=v7.2.1, argv=[D:\nodejs-7.2.1\node.exe, E:\ingeneo\sources\api_sms_mms\server.js], rss=36118528, heapTotal=19902464, heapUsed=12731456, external=382399, loadavg=[0, 0, 0], uptime=59380.6164368, trace=[column=null, file=null, function=JSON.parse, line=null, method=parse, native=false, column=17, file=E:\ingeneo\sources\api_sms_mms\utils.js, function=Object.module.exports.getQueries, line=16, method=getQueries, native=false, column=23, file=E:\ingeneo\sources\api_sms_mms\server.js, function=null, line=10, method=null, native=false, column=32, file=module.js, function=Module._compile, line=571, method=_compile, native=false, column=10, file=module.js, function=Module._extensions..js, line=580, method=.js, native=false, column=32, file=module.js, function=Module.load, line=488, method=load, native=false, column=12, file=module.js, function=tryModuleLoad, line=447, method=null, native=false, column=3, file=module.js, function=Module._load, line=439, method=_load, native=false, column=10, file=module.js, function=Module.runMain, line=605, method=runMain, native=false, column=7, file=bootstrap_node.js, function=run, line=420, method=null, native=false], stack=[SyntaxError: Unexpected token  in JSON at position 40,     at JSON.parse (<anonymous>),     at Object.module.exports.getQueries (E:\ingeneo\sources\api_sms_mms\utils.js:16:17),     at Object.<anonymous> (E:\ingeneo\sources\api_sms_mms\server.js:10:23),     at Module._compile (module.js:571:32),     at Object.Module._extensions..js (module.js:580:10),     at Module.load (module.js:488:32),     at tryModuleLoad (module.js:447:12),     at Function.Module._load (module.js:439:3),     at Module.runMain (module.js:605:10),     at run (bootstrap_node.js:420:7)]
+2017-05-18 14:16:29.353 - error: uncaughtException: Unexpected token  in JSON at position 40 date=Thu May 18 2017 14:16:29 GMT-0500 (Hora est. Pacífico, Sudamérica), pid=3372, uid=null, gid=null, cwd=E:\ingeneo\sources\api_sms_mms, execPath=D:\nodejs-7.2.1\node.exe, version=v7.2.1, argv=[D:\nodejs-7.2.1\node.exe, E:\ingeneo\sources\api_sms_mms\server.js], rss=36057088, heapTotal=19902464, heapUsed=12729464, external=382399, loadavg=[0, 0, 0], uptime=59417.4737843, trace=[column=null, file=null, function=JSON.parse, line=null, method=parse, native=false, column=17, file=E:\ingeneo\sources\api_sms_mms\utils.js, function=Object.module.exports.getQueries, line=16, method=getQueries, native=false, column=23, file=E:\ingeneo\sources\api_sms_mms\server.js, function=null, line=10, method=null, native=false, column=32, file=module.js, function=Module._compile, line=571, method=_compile, native=false, column=10, file=module.js, function=Module._extensions..js, line=580, method=.js, native=false, column=32, file=module.js, function=Module.load, line=488, method=load, native=false, column=12, file=module.js, function=tryModuleLoad, line=447, method=null, native=false, column=3, file=module.js, function=Module._load, line=439, method=_load, native=false, column=10, file=module.js, function=Module.runMain, line=605, method=runMain, native=false, column=7, file=bootstrap_node.js, function=run, line=420, method=null, native=false], stack=[SyntaxError: Unexpected token  in JSON at position 40,     at JSON.parse (<anonymous>),     at Object.module.exports.getQueries (E:\ingeneo\sources\api_sms_mms\utils.js:16:17),     at Object.<anonymous> (E:\ingeneo\sources\api_sms_mms\server.js:10:23),     at Module._compile (module.js:571:32),     at Object.Module._extensions..js (module.js:580:10),     at Module.load (module.js:488:32),     at tryModuleLoad (module.js:447:12),     at Function.Module._load (module.js:439:3),     at Module.runMain (module.js:605:10),     at run (bootstrap_node.js:420:7)]
